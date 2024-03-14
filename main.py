@@ -17,7 +17,7 @@ from appium import webdriver
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 caps = {
     'platformName': 'Android',
-    # 'deviceName': "056793108D052150",
+    'deviceName': "056793108D052150",
     'automationName': 'uiautomator2'
 }
 
